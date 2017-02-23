@@ -16,7 +16,7 @@ module.exports= {
       service: "gmail",
       host: "smtp.gmail.com",
       auth: {
-          user: "echeverria.oscar7@gmail.com",
+          user: "",
           pass: ""
       }
   });
